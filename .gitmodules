@@ -2,5 +2,5 @@
 	path = repo/plbank
 	url = https://github.com/plgitlogin/plbank.git
 [submodule "server/server-pl"]
-	path = server/server-pl
+	path = server/serverpl
 	url = https://github.com/plgitlogin/server-pl.git
